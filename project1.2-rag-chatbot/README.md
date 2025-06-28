@@ -8,7 +8,8 @@
 ### Giao diện sử dụng
 
 Giao diện RAG Chatbot - Hệ thống hỏi đáp (Sử dụng khung chat) 
-!(D:\AIO2025\Project1\project1.2\img\Screenshot 2025-06-28 222121.png)
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/31e0e447-2521-4387-9934-f9b89a024816" />
+
 
 
 - Chạy ứng dụng trên server:
