@@ -13,5 +13,5 @@ Giao diện RAG Chatbot - Hệ thống hỏi đáp (Sử dụng khung chat)
 
 
 - Chạy ứng dụng trên server:
-streamlit run rag_chatbot_app.py
+streamlit run rag_app.py
 
