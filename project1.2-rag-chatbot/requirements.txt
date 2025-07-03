@@ -1,13 +1,9 @@
-# Core app
 streamlit==1.35.0
 python-dotenv==1.0.1
-
-# LLM & Transformers
 transformers==4.38.2
 tokenizers==0.18.1
 accelerate==0.27.2
 
-# LangChain ecosystem (tương thích ổn)
 langchain==0.1.17
 langchainhub==0.1.15
 langchain-chroma==0.0.6
@@ -15,10 +11,8 @@ langchain_experimental==0.0.50
 langchain_community==0.0.26
 langchain_huggingface==0.0.4
 
-# Vector DB
 chromadb==0.4.24
-
-# Extra
-pypdf==3.17.4
-tiktoken==0.6.0
 openai==1.30.1
+tiktoken==0.6.0
+pypdf==3.17.4
+
